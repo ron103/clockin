@@ -128,7 +128,3 @@ MyApp
 ## Credits
 
 Developed by **Rohan Waghmare**. Inspired by my own experiences as an international student balancing part-time work and academics. Special thanks to all those who believe in making every second count.
-
-## License
-
-[MIT License](LICENSE)
